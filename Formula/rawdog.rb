@@ -5,8 +5,8 @@ class Rawdog < Formula
 
   desc "RAW photo managing tool that can fetch, copy, and audit your RAW libraries"
   homepage "https://github.com/nickcorrieri/rawdog"
-  url "https://github.com/nickcorrieri/rawdog/releases/download/v0.2.22/rawdog-0.2.22.tar.gz"
-  sha256 "c98f4e05a11f629a74aa565eaad0bf1582f7a0410fa93a6ce91552a631497923"
+  url "https://github.com/nickcorrieri/rawdog/releases/download/v0.2.23/rawdog-0.2.23.tar.gz"
+  sha256 "579ed6d2be7a19bbb73398ff9284d60874bd30a4874355b5a91e9c0746b4f20b"
   license "Apache-2.0"
 
   depends_on "python"
